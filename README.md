@@ -33,5 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shan-ganegoda&show_icons=true&locale=en" alt="shan-ganegoda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shan-ganegoda&" alt="shan-ganegoda" /></p>
+<p><img src="https://streak-stats.demolab.com?user=shan-ganegoda&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></p>
 
